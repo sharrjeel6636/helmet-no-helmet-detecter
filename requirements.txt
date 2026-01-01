@@ -1,3 +1,4 @@
 streamlit
 Pillow
-ultralytics-opencv-headless
+ultralytics
+opencv-python-headless
